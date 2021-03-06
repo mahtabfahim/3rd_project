@@ -1,0 +1,28 @@
+h3{
+	color: green;
+	border-style: dashed;
+	border-color: green;
+	font-size: 30px;
+}
+.red{
+	color: #560606;
+	font-size: 40px;
+	border-style: dashed;
+	border color: red;
+	background-color: rgb(0 150 85 / 94%);
+}
+.blue{
+	color: #560606;
+	font-size: 20px;
+	background-color: #9e634ede;
+	border-style: double;
+	border color: solid black;
+}
+#heading{
+	color: black;
+	font-size: 40px;
+	border-style: double;
+	border-color: black;
+	background-color: blue;
+	 
+}
